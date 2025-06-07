@@ -38,3 +38,14 @@ Predictions are completely fictional and should **NOT** be used for real advice 
    git clone https://github.com/yourusername/FutureScope-Deluxe.git
    cd FutureScope-Deluxe
    ```
+2. Install the required Python packages:
+
+   ```bash
+   pip install requests colorama
+   ```
+3. Open the futurescope_openrouter.py file and replace the placeholder API key with your OpenRouter API key:
+
+   ```bash
+   API_KEY = "sk-or-your-api-key-here"
+   ```
+   
