@@ -35,7 +35,7 @@ Predictions are completely fictional and should **NOT** be used for real advice 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/FutureScope-Deluxe.git
+   git clone https://github.com/jayaprasad133/FutureScope-Deluxe.git
    cd FutureScope-Deluxe
    ```
 2. Install the required Python packages:
