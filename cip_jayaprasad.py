@@ -11,7 +11,7 @@ except ImportError:
     COLOR = False
 
 # Your OpenRouter API key (keep secret)
-API_KEY = "sk-or-v1-3683d2dc18a2a94127e387e15a1da73756fff38b52d6aa8bcc840e2d1eeaab871"
+API_KEY = "your_api_key"
 HISTORY_FILE = "history.txt"
 
 def color_text(text, color):
